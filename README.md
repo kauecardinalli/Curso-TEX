@@ -1,7 +1,7 @@
 # Curso-TEX
 Aulas realizadas durante o curso Full Stack Javascript Developer
 
-## DESAFIO - LÓGICA @[FS JavaScript] 10/22 
+## DESAFIO - LÓGICA 10/22 
 
 # Fase 1
 - crie um array dinâmico com três posições [2,1,2]

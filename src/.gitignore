@@ -5,3 +5,4 @@ ex02.html
 *.log
 src
 .prettierrc
+.vscode/
